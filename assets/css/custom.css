@@ -238,6 +238,19 @@ header {
     color: white;
 }
 
+/* quality-section */
+.quality-section h3 {
+    font-size: 16px;
+    line-height: 25px;
+}
+
+.quality-section p {
+    font-size: 14px;
+
+}
+
+
+
 /*cs media responsive */
 @media (max-width: 1199.98px) {
     .banner01-section .banner01 .banner-content h2 {
